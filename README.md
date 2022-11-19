@@ -1,4 +1,4 @@
-# Master_Trail_Project
+# Master_Trail
 
 JavaScript Form Validation
 
